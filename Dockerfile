@@ -7,6 +7,6 @@ WORKDIR /data
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
-EXPOSE 5580
+EXPOSE 5520
 
 ENTRYPOINT [ "/entrypoint.sh" ]

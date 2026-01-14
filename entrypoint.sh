@@ -16,4 +16,3 @@ fi
 exec java $MEMORY_OPTS -jar HytaleServer.jar \
     --assets Assets.zip \
     --bind 0.0.0.0:${PORT:-5520} \
-    --nogui
