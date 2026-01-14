@@ -16,7 +16,7 @@ Docker image that provides a Hytale Server.
 
 ---
 
-## Quick Start Guide
+## 📖 Quick Start Guide
 
 ### Quick Start with Docker Compose
 
@@ -71,7 +71,7 @@ services:
 
 ---
 
-## Troubleshooting
+## 🛠️ Troubleshooting
 | Problem                                                          | Solution                                                               |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | I'm getting an error message about JWT tokens being out of date? | Update your system's clock. Time must be synced for the server to run. |
@@ -79,6 +79,6 @@ services:
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 Hytale is still in early access. Expect bugs and changes. This project is in no way affiliated with the Hytale team or Hypixel Studios Canada Inc.
